@@ -56,7 +56,7 @@ const About = () => {
                         buying, investing, or just exploring, our platform helps you
                         discover the perfect place with ease and confidence.
                     </p>
-
+                    {/* GitHub button */}
                     <button className="bg-blue-600 text-white py-2 px-8 rounded hover:bg-blue-700 transition">
                         <a href="https://github.com/afnanmuhammad"> Learn more</a>
                     </button>
