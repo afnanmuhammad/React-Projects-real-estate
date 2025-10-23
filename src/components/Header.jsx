@@ -9,7 +9,7 @@ const Header = () => {
             style={{ backgroundImage: "url('/header_img.png')" }}
             id="Header">
             <Navbar />
-
+            {/* animation of page */}
             <motion.div
                 initial={{ opacity: 0, y: 100 }}
                 transition={{ duration: 0.5, delay: 0.3 }}

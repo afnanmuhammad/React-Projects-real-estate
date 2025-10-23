@@ -75,7 +75,7 @@ const Footer = ({ onPrivacyClick }) => {
                 <p>
                     Created by{" "}
                     <span className="text-blue-400 font-semibold tracking-wide">
-                        Afnan
+                        Muhammad Afnan
                     </span>
                 </p>
             </div>
